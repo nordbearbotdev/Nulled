@@ -86,20 +86,13 @@ bash xlr8.sh
 * `This bomber only works in India !!`
 
 ## Licence
-Apache 2.0 © Anubhav Kashyap
+GNU v.3 nordbearbot
 
 
 ## Screenshots (Termux)
 
-<br>
-<p align="center">
-<img width="48%" src="screenshots/IMG_20210531_101730.jpg"/>
-<img width="48%" src="screenshots/IMG_20210530_164910.jpg"/>
-</p>
-<p align="centre">
-<img width="48%" src="screenshots/IMG_20210530_165509.jpg"/>
-<img width="48%" src="screenshots/IMG_20210530_165506.jpg"/>
-</p>
+
+
 
 ## Telegram Channel
 * `Join the Official Telegram channel of DeathFromAbove`
