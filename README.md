@@ -63,11 +63,11 @@ apt update -y && apt upgrade -y
 
 Clone the repository
 ```bash
-git clone https://github.com/anubhavanonymous/XLR8_BOMBER
+git clone https://github.com/nordbearbot/Death-from-above
 ```
 Go to the Xlr8 directory
 ```bash
-cd XLR8_BOMBER
+cd DeathFromAbove_BOMBER
 ```
 Run the script
 ```bash
