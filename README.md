@@ -1,4 +1,4 @@
-<h1 align="center">XLR8 BOMBER 3.0
+<h1 align="center">Вуфер Акщь Фищму BOMBER 0.1
 <img src="logo.jpg"><br>
 </h1>
 
@@ -102,8 +102,8 @@ Apache 2.0 © Anubhav Kashyap
 </p>
 
 ## Telegram Channel
-* `Join the Official Telegram channel of XLR8`
+* `Join the Official Telegram channel of ВуферакщьФищму`
 * `All updates of Xlr8 will be posted here !`
 
-<a href="https://t.me/xlr8bomber">
+<a href="https://t.me/вуферакщьфищму">
          <img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png">
